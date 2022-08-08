@@ -1,5 +1,2 @@
 # meu-primeiro-projeto
-👋 Hi, I’m @Vanessaor
-👀 I’m interested in ... aprender linguagens
-🌱 I’m currently learning ... HTML CSS e JS
-📲 vane_oliveira1 on Instagram
+👋 Hi, I’m @Vanessaor essa foi o meu primeiro projeto!
